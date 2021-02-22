@@ -30,8 +30,9 @@ img {
     display: block;
 }
 
-caption {
- padding: 10px;
+.caption {
+margin-left: 20px;
+ margin-top: 5px;
 
 .container.head {
     font-family: 'Noto sans JP', sans-serif;
@@ -39,7 +40,7 @@ caption {
 
 .container {
     max-width: 800px;
-    padding: 10px;
+    padding: 0px;
     margin: 0 auto;
 }
 
