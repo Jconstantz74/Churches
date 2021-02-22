@@ -30,6 +30,9 @@ img {
     display: block;
 }
 
+caption {
+ padding: 10px;
+
 .container.head {
     font-family: 'Noto sans JP', sans-serif;
 }
